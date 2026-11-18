@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Houda Belgourari 👋</h1>
+<h1 align="center">Hi, I'm Nawal Belgourari 👋</h1>
 
 <h3 align="center">Aspiring Software Developer | AI & EdTech Enthusiast</h3>
 
