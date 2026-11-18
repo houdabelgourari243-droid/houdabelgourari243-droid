@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Houda Belgourari 👋</h1>
 
-<!--
-**houdabelgourari243-droid/houdabelgourari243-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Aspiring Software Developer | AI & EdTech Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Passionate about technology, software development, and building meaningful digital solutions.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+- 🎓 English student at ENS.
+- 💻 Interested in Software Development.
+- 🤖 Exploring Artificial Intelligence.
+- 📚 Passionate about Educational Technology (EdTech).
+- 🚀 Building projects and continuously learning.
+
+### 🛠️ Technologies & Tools
+
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- AI-powered development tools
+
+### 🎯 Current Goals
+
+- Improve my programming skills.
+- Build innovative educational platforms.
+- Explore AI applications in education.
+- Develop real-world projects.
+
+### 📫 Connect With Me
+
+- GitHub: [@houdabelgourari243-droid](https://github.com/houdabelgourari243-droid)
+
+---
+
+<p align="center">
+  <i>Learn. Build. Innovate.</i>
+</p>
